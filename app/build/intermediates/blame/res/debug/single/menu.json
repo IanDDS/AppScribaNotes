@@ -1,22 +1,30 @@
 [
     {
-        "merged": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/res/merged/debug/menu/edit_note.xml",
-        "source": "/Users/Elibo/Desktop/material-notes/app/src/main/res/menu/edit_note.xml"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\popup_menu.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\src\\main\\res\\menu\\popup_menu.xml"
     },
     {
-        "merged": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/res/merged/debug/menu/help.xml",
-        "source": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/exploded-aar/material-notes/applib/unspecified/res/menu/help.xml"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\menu\\help.xml"
     },
     {
-        "merged": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/res/merged/debug/menu/context_note.xml",
-        "source": "/Users/Elibo/Desktop/material-notes/app/src/main/res/menu/context_note.xml"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/Elibo/Desktop/material-notes/app/src/main/res/menu/main.xml"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_note.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\src\\main\\res\\menu\\context_note.xml"
     },
     {
-        "merged": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/res/merged/debug/menu/settings_and_about.xml",
-        "source": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/exploded-aar/material-notes/applib/unspecified/res/menu/settings_and_about.xml"
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\settings_and_about.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\menu\\settings_and_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\my_custom_menu.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\src\\main\\res\\menu\\my_custom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_note.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\src\\main\\res\\menu\\edit_note.xml"
     }
 ]

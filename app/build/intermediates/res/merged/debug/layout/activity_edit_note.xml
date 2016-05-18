@@ -2,6 +2,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:Notes="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/tools"
     android:orientation="vertical">
 
     <EditText
@@ -20,12 +22,40 @@
         android:gravity="start"
         android:inputType="textMultiLine"
         android:longClickable="true"
+        android:textIsSelectable="true"
         android:hint="@string/hint_note_content" />
 
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
+        <TextView
+            android:id="@+id/valTv"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="16dp"
+            android:text="Mode:"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
 
+        <TextView
+            android:id="@+id/valTv2"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="16dp"
+            android:text="Val:"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
 
+        <com.shamanland.fab.FloatingActionButton
+            android:id="@+id/popup_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="48dp"
+            android:src="@drawable/ic_invert_colors_white_24dp" />
 
+    </RelativeLayout>
 
 </LinearLayout>

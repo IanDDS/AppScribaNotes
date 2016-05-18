@@ -9,9 +9,9 @@
 
     <item
         android:id="@+id/bluetooth"
-        NotepadApp:showAsAction="never"
         android:title="@string/bluetooth"
+        NotepadApp:showAsAction="ifRoom"
+        android:icon="@drawable/ic_bluetooth_white_24dp"
         android:onClick="bluetooth"/>
-
 
 </menu>

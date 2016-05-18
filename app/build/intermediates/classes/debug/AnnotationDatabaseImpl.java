@@ -35,6 +35,10 @@ public class AnnotationDatabaseImpl extends AnnotationDatabase {
         }
 
         fieldNameSet = new HashSet<String>();
+        fieldNameSet.add("popupButton");
+        mapClassWithInjectionNameToFieldSet.put("com.materialnotes.activity.PopupMenuActivity", fieldNameSet);
+
+        fieldNameSet = new HashSet<String>();
         fieldNameSet.add("versionText");
         mapClassWithInjectionNameToFieldSet.put("com.materialnotes.widget.AboutNoticeDialog", fieldNameSet);
 
@@ -47,6 +51,7 @@ public class AnnotationDatabaseImpl extends AnnotationDatabase {
         fieldNameSet = new HashSet<String>();
         fieldNameSet.add("noteTitleText");
         fieldNameSet.add("noteContentText");
+        fieldNameSet.add("popupButton");
         mapClassWithInjectionNameToFieldSet.put("com.materialnotes.activity.EditNoteActivity", fieldNameSet);
 
         fieldNameSet = new HashSet<String>();
@@ -84,6 +89,7 @@ public class AnnotationDatabaseImpl extends AnnotationDatabase {
     }
     
     public void fillClassesContainingInjectionPointSet(HashSet<String> classesContainingInjectionPointsSet) {
+        classesContainingInjectionPointsSet.add("com.materialnotes.activity.PopupMenuActivity");
         classesContainingInjectionPointsSet.add("com.materialnotes.widget.AboutNoticeDialog");
         classesContainingInjectionPointsSet.add("com.materialnotes.activity.MainActivity");
         classesContainingInjectionPointsSet.add("com.materialnotes.data.dao.impl.sqlite.NoteSQLiteDAO");
@@ -94,11 +100,11 @@ public class AnnotationDatabaseImpl extends AnnotationDatabase {
 
     public void fillBindableClasses(HashSet<String> injectedClasses) {
         injectedClasses.add("android.widget.TextView");
-        injectedClasses.add("android.widget.ScrollView");
         injectedClasses.add("android.database.sqlite.SQLiteOpenHelper");
+        injectedClasses.add("android.widget.ScrollView");
         injectedClasses.add("com.materialnotes.data.dao.NoteDAO");
-        injectedClasses.add("android.widget.ListView");
         injectedClasses.add("com.shamanland.fab.FloatingActionButton");
+        injectedClasses.add("android.widget.ListView");
         injectedClasses.add("android.widget.EditText");
 
         if(FragmentUtil.hasNative) {

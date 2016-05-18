@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/res/merged/debug/values-xlarge-v16/values-xlarge-v16.xml",
+        "outputFile": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\values-xlarge-v16\\values-xlarge-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/exploded-aar/material-notes/applib/unspecified/res/values-xlarge-v16/values-xlarge-v16.xml",
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-xlarge-v16\\values-xlarge-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 167
                 },
                 "from": {
-                    "file": "/Users/Elibo/Desktop/material-notes/app/build/intermediates/exploded-aar/material-notes/applib/unspecified/res/values-xlarge-v16/values-xlarge-v16.xml",
+                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-xlarge-v16\\values-xlarge-v16.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

@@ -1,6 +1,5 @@
 package com.materialnotes.widget;
 
-import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -100,9 +99,10 @@ public class NotesAdapter extends BaseAdapter {
         // Starts the view with the note data
         NoteViewWrapper noteViewWrapper = data.get(position);
         holder.noteIdText.setText(String.valueOf(noteViewWrapper.note.getId()));
-        holder.noteTitleText.setText(Html.fromHtml(noteViewWrapper.note.getTitle()));
+        holder.noteTitleText.setText(com.materialnotes.activity.Html.fromHtml(noteViewWrapper.note.getTitle()));
         // cuts the string to 80 characters and appends "..."
-        holder.noteContentText.setText(Html.fromHtml(noteViewWrapper.note.getContent().length() >= 80 ? noteViewWrapper.note.getContent().substring(0, 80).concat("...") : noteViewWrapper.note.getContent()));
+        //holder.noteContentText.setText(com.materialnotes.activity.Html.fromHtml(noteViewWrapper.note.getContent().length() >= 80 ? noteViewWrapper.note.getContent().substring(0, 80).concat("...") : noteViewWrapper.note.getContent()));
+        holder.noteContentText.setText(com.materialnotes.activity.Html.fromHtml(noteViewWrapper.note.getContent()));
         holder.noteDateText.setText(DATETIME_FORMAT.format(noteViewWrapper.note.getUpdatedAt()));
         // Change the background if you select it
         if (noteViewWrapper.isSelected) holder.parent.setBackgroundColor(parent.getContext().getResources().getColor(R.color.selected_note));

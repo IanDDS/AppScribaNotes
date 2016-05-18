@@ -1,52 +1,31 @@
 package com.materialnotes.activity;
 
 import android.app.AlertDialog;
-import android.bluetooth.BluetoothClass;
-import android.bluetooth.BluetoothDevice;
-import android.bluetooth.BluetoothGatt;
-import android.bluetooth.le.BluetoothLeScanner;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.Typeface;
 import android.os.Bundle;
-import android.provider.CalendarContract;
 import android.support.v7.view.ActionMode;
-import android.text.Html;
-import android.text.Spannable;
-import android.text.SpannableStringBuilder;
-import android.text.style.StyleSpan;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.webkit.WebView;
 import android.widget.AdapterView;
-import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.bea.xml.stream.samples.Parse;
 import com.materialnotes.R;
 import com.materialnotes.data.Note;
 import com.materialnotes.data.dao.NoteDAO;
 import com.materialnotes.view.ShowHideOnScroll;
 import com.materialnotes.widget.AboutNoticeDialog;
 import com.materialnotes.widget.NotesAdapter;
-
 import com.shamanland.fab.FloatingActionButton;
 
-import org.simpleframework.xml.convert.Convert;
-
 import java.util.ArrayList;
-import java.util.UUID;
 
 import javax.inject.Inject;
 
 import no.nordicsemi.android.scriba.hrs.HRSActivity;
-import no.nordicsemi.android.scriba.hrs.HRSManager;
-import no.nordicsemi.android.scriba.profile.BleManager;
-import no.nordicsemi.android.scriba.profile.BleManagerCallbacks;
 import no.nordicsemi.android.scriba.profile.BleProfileActivity;
-import no.nordicsemi.android.scriba.profile.BleProfileService;
 import roboguice.activity.RoboActionBarActivity;
 import roboguice.inject.ContentView;
 import roboguice.inject.InjectView;
@@ -243,7 +222,9 @@ public class MainActivity extends RoboActionBarActivity {
 
     @Override
     protected void onDestroy() {
-        HRSActivity.fa.finish();
+        if(BleProfileActivity.mDeviceConnected == true) {
+            HRSActivity.fa.finish();
+        }
         super.onDestroy();
     }
 
