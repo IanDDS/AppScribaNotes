@@ -23,11 +23,6 @@ public class EditTextCursorWatcher extends EditText {
     @Override
     protected void onSelectionChanged(int selStart, int selEnd) {
         super.onSelectionChanged(selStart, selEnd);
-            /*if(EditNoteActivity.t.isInterrupted()) {
-                EditNoteActivity.t = new Thread();
-                EditNoteActivity.t.start();
-                Toast.makeText(getContext(), "Hello", Toast.LENGTH_SHORT).show();
-            }*/
 
     }
 }

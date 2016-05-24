@@ -14,7 +14,6 @@ import android.text.SpannableStringBuilder;
 import android.text.style.BackgroundColorSpan;
 import android.text.style.StyleSpan;
 import android.text.style.UnderlineSpan;
-import android.util.Log;
 import android.view.ActionMode;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -44,7 +43,7 @@ public class EditNoteActivity extends RoboActionBarActivity {
 
     private static final String EXTRA_NOTE = "EXTRA_NOTE";
     private static final int FILTER_ID = 1;
-    private static final String TAG = "Mode: ";
+    private static final String TAG = "Mode";
 
     @InjectView(R.id.note_title)   private EditText noteTitleText;
     @InjectView(R.id.note_content) private EditText noteContentText;
@@ -80,28 +79,6 @@ public class EditNoteActivity extends RoboActionBarActivity {
         }
 
 
-        myThread = new Thread() {
-
-            @Override
-            public void run() {
-                try {
-                    while (!isInterrupted()) {
-                        Thread.sleep(500);
-                        runOnUiThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                valTv2.setText(String.valueOf(HRSActivity.mHrmValue));
-                                deselectText();
-                            }
-                        });
-                    }
-                } catch (InterruptedException e) {
-                }
-            }
-        };
-
-        myThread.start();
-
         super.onActionModeStarted(mode);
 
     }
@@ -124,8 +101,6 @@ public class EditNoteActivity extends RoboActionBarActivity {
 
     @Override
     public void onActionModeFinished(ActionMode mode) {
-        restartMode();
-
         mActionMode = null;
         super.onActionModeFinished(mode);
     }
@@ -218,43 +193,54 @@ public class EditNoteActivity extends RoboActionBarActivity {
                                 // update TextView here!
                                 //valTv.setText(String.valueOf(HRSActivity.mHrmValue));
                                 tv.setText(String.valueOf(HRSActivity.mHrmValue));
-                                format();
+                                modeFormat();
                             }
                         });
                     }
                 } catch (InterruptedException e) {
+                    Thread.currentThread().interrupt();
                 }
             }
         };
 
         t.start();
 
-        noteTitleText.setOnLongClickListener(new View.OnLongClickListener() {
-            @Override
-            public boolean onLongClick(View v) {
-                int startSelection = noteTitleText.getSelectionStart();
-                int endSelection = noteTitleText.getSelectionEnd();
-
-                noteTitleText.setSelection(startSelection, endSelection);
-
-                return false;
-            }
-        });
-
-        noteContentText.setOnLongClickListener(new View.OnLongClickListener() {
-            @Override
-            public boolean onLongClick(View v) {
-                int startSelection = noteContentText.getSelectionStart();
-                int endSelection = noteContentText.getSelectionEnd();
-
-                noteContentText.setSelection(startSelection, endSelection);
-
-                return false;
-            }
-        });
-
         // Get instance of Vibrator from current Context
         v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+
+        /*noteTitleText.setOnTouchListener(new View.OnTouchListener() {
+            @Override
+            public boolean onTouch(View v, MotionEvent event) {
+                switch (event.getAction()) {
+
+                    case MotionEvent.ACTION_DOWN:
+                        if(noteTitleText.hasFocus()) {
+                            int startSelection = noteTitleText.getSelectionStart();
+                            int endSelection = noteTitleText.getSelectionEnd();
+
+                            noteTitleText.setSelection(startSelection, endSelection);
+                        }
+
+                        Log.e(TAG, "Action was DOWN");
+                        break;
+
+                    case MotionEvent.ACTION_UP:
+                        if(noteTitleText.hasSelection()){
+                            formattingText();
+                        }
+                        Log.e(TAG, "Action was MOVE");
+                        break;
+
+                    case MotionEvent.ACTION_MOVE:
+                        if(noteTitleText.hasSelection()){
+                            formattingText();
+                        }
+                        Log.e(TAG, "Action was MOVE");
+                        break;
+                }
+                return false;
+            }
+        });*/
 
     }
 
@@ -449,66 +435,34 @@ public class EditNoteActivity extends RoboActionBarActivity {
         }
     }
 
-    public void format() {
+    public void modeFormat() {
+
         if (HRSActivity.mHrmValue > 600 && HRSActivity.mHrmValue < 901) {
-            valTv.setText("Mode: Bold");
-            if (noteTitleText.hasSelection()) {
-                t.interrupt();
-                // Vibrate for 500 milliseconds/1/2 second
-                v.vibrate(250);
-                boldtitle();
-            } else if(noteContentText.hasSelection()) {
-                t.interrupt();
-                // Vibrate for 500 milliseconds/1/2 second
-                v.vibrate(250);
-                boldcontent();
-            }
+            valTv.setText("Mode: Highlight");
+            Snackbar.make(findViewById(android.R.id.content), "Highlight Mode", Snackbar.LENGTH_SHORT)
+                    .setAction("Undo", null)
+                    .setActionTextColor(Color.RED)
+                    .show();
+            startMode();
+            t.interrupt();
         } else if (HRSActivity.mHrmValue > 300 && HRSActivity.mHrmValue < 601) {
             valTv.setText("Mode: Underline");
-            if (noteTitleText.hasSelection()) {
-                t.interrupt();
-                // Vibrate for 500 milliseconds/1/2 second
-                v.vibrate(250);
-                underlinetitle();
-            } else if(noteContentText.hasSelection()) {
-                t.interrupt();
-                // Vibrate for 500 milliseconds/1/2 second
-                v.vibrate(250);
-                underlinecontent();
-            }
+            Snackbar.make(findViewById(android.R.id.content), "Underline Mode", Snackbar.LENGTH_SHORT)
+                    .setAction("Undo", null)
+                    .setActionTextColor(Color.RED)
+                    .show();
+            startMode();
+            t.interrupt();
         } else if (HRSActivity.mHrmValue < 301 && HRSActivity.mHrmValue > 50) {
-            valTv.setText("Mode: Highlight");
-            if (noteTitleText.hasSelection()) {
-                t.interrupt();
-                // Vibrate for 500 milliseconds/1/2 second
-                v.vibrate(250);
-                //underlinetitle();
-                //showPopup(popupButton);
-                highlightTitle();
-            } else if(noteContentText.hasSelection()) {
-                //underlinecontent();
-                t.interrupt();
-                // Vibrate for 500 milliseconds/1/2 second
-                v.vibrate(250);
-                if(count == 0) {
-                    showPopup(popupButton);
-                }
-                count++;
-                highlightContent();
-            }
-        /*}else if(HRSActivity.mHrmValue < 101 && HRSActivity.mHrmValue > 0){
-            if(noteTitleText.hasFocus()){
-                //showPopup(popupButton);
-                //highlightTitle();
-                noteTitleText.clearFocus();
-            }else{
-                //showPopup(popupButton);
-                //highlightContent();
-                noteContentText.clearFocus();
-            }
-            valTv.setText("Mode: Deselect");*/
+            valTv.setText("Mode: Delete");
+            Snackbar.make(findViewById(android.R.id.content), "Delete Mode", Snackbar.LENGTH_SHORT)
+                    .setAction("Undo", null)
+                    .setActionTextColor(Color.RED)
+                    .show();
+            startMode();
+            t.interrupt();
         }else if(HRSActivity.mHrmValue > 900){
-            valTv.setText("Mode:");
+            valTv.setText("Mode: Select");
         }
     }
 
@@ -523,13 +477,18 @@ public class EditNoteActivity extends RoboActionBarActivity {
             @Override
             public void onDismiss(IconizedMenu menu) {
                 count = 0;
+
+                if(noteTitleText.hasSelection()){
+                    noteTitleText.clearFocus();
+                } else if(noteContentText.hasSelection()){
+                    noteContentText.clearFocus();
+                }
             }
         });
 
         popup.setOnMenuItemClickListener(new IconizedMenu.OnMenuItemClickListener() {
             @Override
             public boolean onMenuItemClick(MenuItem item) {
-                //Toast.makeText(EditNoteActivity.this,"You Clicked : " + item.getTitle(),Toast.LENGTH_SHORT).show();
                 Snackbar.make(v, "You Chose : " + item.getTitle(), Snackbar.LENGTH_SHORT)
                         .setAction("Action", null).show();
 
@@ -859,9 +818,17 @@ public class EditNoteActivity extends RoboActionBarActivity {
                         ssbcontent = (SpannableStringBuilder) noteContentText.getText();
                         ssbcontent.setSpan(new BackgroundColorSpan(getResources().getColor(R.color.white_circle)), noteContentText.getSelectionStart(), noteContentText.getSelectionEnd(), 0);
                     }
+
                 }
                 //popup.dismiss();
                 count = 0;
+
+                if(noteTitleText.hasSelection()){
+                    noteTitleText.clearFocus();
+                } else if(noteContentText.hasSelection()){
+                    noteContentText.clearFocus();
+                }
+
                 return true;
             }
         });
@@ -869,43 +836,147 @@ public class EditNoteActivity extends RoboActionBarActivity {
         popup.show();
     }
 
-    public void restartMode(){
+    public void exitMode(){
 
-        v.vibrate(250);
+            //rerun the thread
+            t = new Thread() {
 
-        //rerun the thread
-        t = new Thread() {
-
-            @Override
-            public void run() {
-                try {
-                    while (!isInterrupted()) {
-                        Thread.sleep(1000);
-                        runOnUiThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                // update TextView here!
-                                tv.setText(String.valueOf(HRSActivity.mHrmValue));
-                                format();
-                            }
-                        });
+                @Override
+                public void run() {
+                    try {
+                        while (!isInterrupted()) {
+                            Thread.sleep(1000);
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    // update TextView here!
+                                    tv.setText(String.valueOf(HRSActivity.mHrmValue));
+                                    modeFormat();
+                                }
+                            });
+                        }
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
                     }
-                } catch (InterruptedException e) {
                 }
-            }
-        };
+            };
 
-        t.start();
+            t.start();
 
-        myThread.interrupt();
     }
 
     public void deselectText(){
-        if(Float.valueOf(valTv2.getText().toString()) < 50){
-            restartMode();
-            Log.d(TAG, "Restarted");
-            mActionMode.finish();
+        if(Float.valueOf(valTv2.getText().toString()) < 30){
+            myThread.interrupt();
+            exitMode();
+
+            if(noteTitleText.hasSelection()){
+                noteTitleText.clearFocus();
+            } else if(noteContentText.hasSelection()){
+                noteContentText.clearFocus();
+            }
         }
     }
+
+    public void startMode(){
+
+        myThread = new Thread() {
+
+                @Override
+                public void run() {
+                    try {
+                        while (!isInterrupted()) {
+                            Thread.sleep(1000);
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    valTv2.setText(String.valueOf(HRSActivity.mHrmValue));
+                                    formattingText();
+                                    deselectText();
+                                }
+                            });
+                        }
+                    } catch (InterruptedException e) {
+                        Thread.currentThread().interrupt();
+                    }
+                }
+            };
+
+            myThread.start();
+
+    }
+
+    public void formattingText(){
+        if (noteTitleText.hasSelection() && valTv.getText().equals("Mode: Delete")) {
+            //boldtitle();
+            deleteText();
+        } else if (noteContentText.hasSelection() && valTv.getText().equals("Mode: Delete")) {
+            //boldcontent();
+            deleteText();
+        } else if (noteTitleText.hasSelection() && valTv.getText().equals("Mode: Underline")) {
+            underlinetitle();
+        } else if (noteContentText.hasSelection() && valTv.getText().equals("Mode: Underline")) {
+            underlinecontent();
+        } else if (noteTitleText.hasSelection() && valTv.getText().equals("Mode: Highlight")) {
+            highlightTitle();
+        } else if (noteContentText.hasSelection() && valTv.getText().equals("Mode: Highlight")) {
+            if (count == 0) {
+                showPopup(popupButton);
+            }
+            count++;
+            highlightContent();
+        }
+    }
+
+    public void deleteText(){
+        int startSelection = noteContentText.getSelectionStart();
+        int endSelection = noteContentText.getSelectionEnd();
+
+        if(noteTitleText.hasSelection()){
+            ssbtitle=(SpannableStringBuilder)noteTitleText.getText();
+            ssbtitle.delete(startSelection, endSelection);
+        } else if(noteContentText.hasSelection()){
+            ssbcontent=(SpannableStringBuilder)noteContentText.getText();
+            ssbcontent.delete(startSelection, endSelection);
+        }
+    }
+
+    /**
+     * Shows or hides the copy/paste tags when text is selected, onActionItemClicked must be always false if you want the
+     * copy/paste functions to work even if they don't show. If it's true then the app won't be able to copy/paste and you'll
+     * have to implement it manually to the app yourself.
+     **/
+    /*public void tags(final boolean tag) {
+
+        noteTitleText.setCustomSelectionActionModeCallback(new ActionMode.Callback() {
+            public boolean onPrepareActionMode(ActionMode mode, Menu menu) {
+                return tag;
+            }
+            public void onDestroyActionMode(ActionMode mode) {}
+            public boolean onCreateActionMode(ActionMode mode, Menu menu) {
+                return tag;
+            }
+            public boolean onActionItemClicked(ActionMode mode, MenuItem item) {
+                return false;
+            }
+        });
+
+        noteContentText.setCustomSelectionActionModeCallback(new ActionMode.Callback() {
+            public boolean onPrepareActionMode(ActionMode mode, Menu menu) {
+                return tag;
+            }
+            public void onDestroyActionMode(ActionMode mode) {}
+            public boolean onCreateActionMode(ActionMode mode, Menu menu) {
+                return tag;
+            }
+            public boolean onActionItemClicked(ActionMode mode, MenuItem item) {
+                return false;
+            }
+        });
+
+        noteContentText.setLongClickable(tag);
+        noteTitleText.setLongClickable(tag);
+    }*/
+
 
 }

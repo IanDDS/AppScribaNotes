@@ -176,12 +176,12 @@
         "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pentool_bg.xml",
-        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\drawable\\pentool_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pentool_bg.xml",
+        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\drawable\\pentool_bg.xml"
     },
     {
         "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_shamanland_fab_mini.xml",

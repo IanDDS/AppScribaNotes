@@ -4,26 +4,26 @@
     api-level="21"
     density="hdpi"
     format="7"
-    timestamp="537987160178762" >
+    timestamp="75810758031959" >
 
     <task
         name="javac"
-        duration="5326" />
+        duration="3351" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="3775" />
+        duration="2194" />
     <task
         name="verifier"
-        duration="2285" />
+        duration="999" />
 
     <artifact
         location="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="537987160178762" >
+    <build timestamp="75810758031959" >
         <artifact
             location="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

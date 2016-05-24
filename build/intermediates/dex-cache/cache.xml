@@ -61,14 +61,14 @@
         jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="c2622bf19255c5c8a4a7c055505a029a637a2c49">
+        sha1="522a269b17141efc3cf246d14e9b49bb34a31863">
         <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8f0580773c93e343e0c8d92f8e2fb44cfe0ba82f\classes.dex" />
     </item>
     <item
         jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="e2ef63adbf52475d2ce169d2c6441f721045df5f">
+        sha1="ed8724bfe8de6341aaa2b3655b5ecad8cd79af3c">
         <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c3797ddb10340efbba1a305d57414b9d45884cc\classes.dex" />
     </item>
     <item
