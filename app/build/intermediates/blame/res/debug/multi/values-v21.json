@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "outputFile": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 185
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.8/res/values-v21/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.8/res/values-v21/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 326
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.8/res/values-v21/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 401
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.shamanland\\fab\\0.0.8\\res\\values-v21\\values.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.8/res/values-v21/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 451
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 504
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -145,7 +145,7 @@
                     "endOffset": 661
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -166,7 +166,7 @@
                     "endOffset": 874
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -186,7 +186,7 @@
                     "endOffset": 965
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -205,7 +205,7 @@
                     "endOffset": 1068
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -224,7 +224,7 @@
                     "endOffset": 1171
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -243,7 +243,7 @@
                     "endOffset": 1276
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -262,7 +262,7 @@
                     "endOffset": 1383
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -281,7 +281,7 @@
                     "endOffset": 1492
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -300,7 +300,7 @@
                     "endOffset": 1601
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -319,7 +319,7 @@
                     "endOffset": 1710
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -338,7 +338,7 @@
                     "endOffset": 1819
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -357,7 +357,7 @@
                     "endOffset": 1928
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -376,7 +376,7 @@
                     "endOffset": 2035
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -395,7 +395,7 @@
                     "endOffset": 2138
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -414,7 +414,7 @@
                     "endOffset": 2257
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -434,7 +434,7 @@
                     "endOffset": 2412
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -455,7 +455,7 @@
                     "endOffset": 2567
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -475,7 +475,7 @@
                     "endOffset": 2672
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -494,7 +494,7 @@
                     "endOffset": 2793
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -513,7 +513,7 @@
                     "endOffset": 2894
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -533,7 +533,7 @@
                     "endOffset": 3041
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -554,7 +554,7 @@
                     "endOffset": 3182
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -574,7 +574,7 @@
                     "endOffset": 3285
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -593,7 +593,7 @@
                     "endOffset": 3404
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -612,7 +612,7 @@
                     "endOffset": 3511
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -631,7 +631,7 @@
                     "endOffset": 3614
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -651,7 +651,7 @@
                     "endOffset": 3761
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -672,7 +672,7 @@
                     "endOffset": 3916
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -693,7 +693,7 @@
                     "endOffset": 4087
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 4236
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -735,7 +735,7 @@
                     "endOffset": 4401
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -756,7 +756,7 @@
                     "endOffset": 4558
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -777,7 +777,7 @@
                     "endOffset": 4709
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -797,7 +797,7 @@
                     "endOffset": 4828
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -817,7 +817,7 @@
                     "endOffset": 4977
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -838,7 +838,7 @@
                     "endOffset": 5126
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -858,7 +858,7 @@
                     "endOffset": 5238
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -877,7 +877,7 @@
                     "endOffset": 5385
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -897,7 +897,7 @@
                     "endOffset": 5538
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -918,7 +918,7 @@
                     "endOffset": 5685
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -938,7 +938,7 @@
                     "endOffset": 5760
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -957,7 +957,7 @@
                     "endOffset": 5849
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -976,7 +976,7 @@
                     "endOffset": 5936
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -995,7 +995,7 @@
                     "endOffset": 6037
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -1015,7 +1015,7 @@
                     "endOffset": 9105
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -1036,7 +1036,7 @@
                     "endOffset": 9291
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 4,
@@ -1057,7 +1057,7 @@
                     "endOffset": 12371
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -1078,7 +1078,7 @@
                     "endOffset": 12569
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1099,7 +1099,7 @@
                     "endOffset": 12692
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1120,7 +1120,7 @@
                     "endOffset": 12815
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1141,7 +1141,7 @@
                     "endOffset": 12928
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1162,7 +1162,7 @@
                     "endOffset": 13111
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1183,7 +1183,7 @@
                     "endOffset": 13242
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -1204,7 +1204,7 @@
                     "endOffset": 13443
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1224,7 +1224,7 @@
                     "endOffset": 13532
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1243,7 +1243,7 @@
                     "endOffset": 13643
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1262,7 +1262,7 @@
                     "endOffset": 13770
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1281,7 +1281,7 @@
                     "endOffset": 13871
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1300,7 +1300,7 @@
                     "endOffset": 13966
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -1319,7 +1319,7 @@
                     "endOffset": 14089
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1338,7 +1338,7 @@
                     "endOffset": 14218
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1357,7 +1357,7 @@
                     "endOffset": 14335
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1377,7 +1377,7 @@
                     "endOffset": 14512
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1397,7 +1397,7 @@
                     "endOffset": 14611
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1417,7 +1417,7 @@
                     "endOffset": 14746
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1438,7 +1438,7 @@
                     "endOffset": 14889
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1459,7 +1459,7 @@
                     "endOffset": 15024
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1480,7 +1480,7 @@
                     "endOffset": 15143
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -1501,7 +1501,7 @@
                     "endOffset": 15344
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1522,7 +1522,7 @@
                     "endOffset": 15463
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1542,7 +1542,7 @@
                     "endOffset": 15556
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1561,7 +1561,7 @@
                     "endOffset": 15667
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1580,7 +1580,7 @@
                     "endOffset": 15723
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1600,7 +1600,7 @@
                     "endOffset": 15830
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1621,7 +1621,7 @@
                     "endOffset": 16025
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1642,7 +1642,7 @@
                     "endOffset": 16136
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -1663,7 +1663,7 @@
                     "endOffset": 16269
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -1683,7 +1683,7 @@
                     "endOffset": 16364
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1702,7 +1702,7 @@
                     "endOffset": 16455
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1721,7 +1721,7 @@
                     "endOffset": 16546
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -1740,7 +1740,7 @@
                     "endOffset": 16663
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -1760,7 +1760,7 @@
                     "endOffset": 16802
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -1781,7 +1781,7 @@
                     "endOffset": 16978
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1802,7 +1802,7 @@
                     "endOffset": 17023
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1823,7 +1823,7 @@
                     "endOffset": 17376
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1844,7 +1844,7 @@
                     "endOffset": 17741
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -1865,7 +1865,7 @@
                     "endOffset": 18421
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -1885,7 +1885,7 @@
                     "endOffset": 18478
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -1904,7 +1904,7 @@
                     "endOffset": 18536
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,
@@ -1924,7 +1924,7 @@
                     "endOffset": 18990
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -1945,7 +1945,7 @@
                     "endOffset": 19436
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1966,7 +1966,7 @@
                     "endOffset": 19552
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -1987,7 +1987,7 @@
                     "endOffset": 19672
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -2008,7 +2008,7 @@
                     "endOffset": 19798
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -2029,7 +2029,7 @@
                     "endOffset": 20024
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -2050,7 +2050,7 @@
                     "endOffset": 20319
                 },
                 "from": {
-                    "file": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\values-v21\\values-v21.xml",
+                    "file": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,

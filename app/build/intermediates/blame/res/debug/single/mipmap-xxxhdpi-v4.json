@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\scriba_launcher.png",
-        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\mipmap-xxxhdpi-v4\\scriba_launcher.png"
+        "merged": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/scriba_launcher.png",
+        "source": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/mipmap-xxxhdpi-v4/scriba_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Ian C\\Documents\\GitHub\\ScribaNotesApp\\app\\build\\intermediates\\exploded-aar\\ScribaNotesApp\\applib\\unspecified\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png"
+        "merged": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/res/mipmap-xxxhdpi-v4/ic_launcher.png"
     }
 ]

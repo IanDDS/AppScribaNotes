@@ -2,158 +2,158 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\stax\stax\1.2.0\c434800de5e4bbe1822805be5fb1c32d6834f830\stax-1.2.0.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="c434800de5e4bbe1822805be5fb1c32d6834f830">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\stax-1.2.0_eb291a265b3e39b9c4558ec1563bfcd3b2173837\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\ScribaNotesApp\applib\unspecified\jars\libs\achartengine-1.1.0.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="e74081277d4e7486ff2d9ce30e3a12c125a83e83">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\8\achartengine-1.1.0_27ab5e6cccefee280f331c9b98fa8781e719e2ec\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\no.nordicsemi.android\dfu\0.6.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6487f1efd2409eb8995fe25e3bbe1933b1fca2d6">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\no.nordicsemi.android-dfu-0.6.1_cd62f60037df2bfd7ba8cc041c177ec3a6c70a10\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\no.nordicsemi.android.support.v18\scanner\0.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="564665effcb7a36a56bf71ddf048c350d4dee4ea">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\no.nordicsemi.android.support.v18-scanner-0.1.1_f71ecea9fd12b049c50f7ccf3ce653c4e49f846d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.0_e2eeccb9599b5a45892dbfc9fccf9dfb1e0c9608\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_64af232df50dabb70a941ea225838093860c9413\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_e583e4ccda5f6e3c37718b15da9a965c898a9589\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.3.0_a2ac068008f63caa1468843728576cfde46c283c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="522a269b17141efc3cf246d14e9b49bb34a31863">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8f0580773c93e343e0c8d92f8e2fb44cfe0ba82f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="ed8724bfe8de6341aaa2b3655b5ecad8cd79af3c">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c3797ddb10340efbba1a305d57414b9d45884cc\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\no.nordicsemi.android\log\2.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="09fe5b28a21fba9348128dfd390d9c6cf7a4fcbd">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\no.nordicsemi.android-log-2.0.0_28d028697e65beff25ba319d6110a7c7c613b999\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.3.0_3c9008c43f7cfe5d795b4517bd7167d9b0b7c3ff\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_1b039a19e97a8fe7ccc69971fe753c1df6663d96\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jar="/Users/Elibo/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\simple-xml-2.7.1_17b8f263e826002a29d588bcefb659363bfa5c14\classes.dex" />
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/simple-xml-2.7.1_e800ec7091e32782b879f3ccb4ee8cef4a1a506f/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\org.roboguice\roboguice\3.0\9e1de0dd617a1b1abcb71404c2d058b629cbf414\roboguice-3.0.jar"
+        jar="/Users/Elibo/.gradle/caches/modules-2/files-2.1/stax/stax/1.2.0/c434800de5e4bbe1822805be5fb1c32d6834f830/stax-1.2.0.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="9e1de0dd617a1b1abcb71404c2d058b629cbf414">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\roboguice-3.0_25f3ffa027388576f421381470302dc118c3edb8\classes.dex" />
+        sha1="c434800de5e4bbe1822805be5fb1c32d6834f830">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/stax-1.2.0_85b8bcacdc2fb9c272542317ae5a1329bca911ed/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.shamanland\fab\0.0.8\jars\classes.jar"
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.shamanland/fab/0.0.8/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="e58f2fb4991259b0d4e78c3b3dd686ec58736a29">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.shamanland-fab-0.0.8_e0c1bde0f4f125e81b58b71654ad7f8db3152c51\classes.dex" />
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.shamanland-fab-0.0.8_7814ca76a5866f047334741bf9e6e3590a25a9d5/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_0f29e436e5d8a1c8c8d3a1ef3a2a738c22791b43\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_0db12302513bfbfcfb923bc4eaba1ee9204db07d\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.3.0_20a72e01a4786798d1fe94dbd45db9e6750e5c8a\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_92299cdee4e24b881a659b5e7894f8ba8ceb46f7\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Ian C\.gradle\caches\modules-2\files-2.1\org.ccil.cowan.tagsoup\tagsoup\1.2\639fd364750d7363c85797dc944b4a80f78fa684\tagsoup-1.2.jar"
+        jar="/Users/Elibo/.gradle/caches/modules-2/files-2.1/org.ccil.cowan.tagsoup/tagsoup/1.2/639fd364750d7363c85797dc944b4a80f78fa684/tagsoup-1.2.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="639fd364750d7363c85797dc944b4a80f78fa684">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\tagsoup-1.2_3139418c4c5d68cbe2336b9ee315183e84677810\classes.dex" />
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/tagsoup-1.2_3044c6f08d4ea56fc309dad9a62e6f1d6c5dcbc1/classes.dex" />
     </item>
     <item
-        jar="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_38d954ece8c81de578e57a0527ac06f88ecacb60/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_72327c91b832dc20359f680e4cca761273d61c67/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/.gradle/caches/modules-2/files-2.1/org.roboguice/roboguice/3.0/9e1de0dd617a1b1abcb71404c2d058b629cbf414/roboguice-3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9e1de0dd617a1b1abcb71404c2d058b629cbf414">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/roboguice-3.0_bd52da234346de07c179492a6b40ff140740b2c8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.0_381ca711b635039955c3d13eb1c75c804998c13a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/AppScribaNotes/applib/unspecified/jars/libs/achartengine-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dc987f2a85ca8aa760aabffffbf0421ea5c41c49">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/8/achartengine-1.1.0_c38b8fd50c9f9ab0960728c23ddbf012d44298ff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.3.0_299445ee66a4c893fc79e9682a14fb1e16a89cd6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_2f8f517c76d01508d58f0f5dfdeeafda72d0394d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/no.nordicsemi.android/dfu/0.6.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6487f1efd2409eb8995fe25e3bbe1933b1fca2d6">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/no.nordicsemi.android-dfu-0.6.1_fdf2f21384d76314fff6ccfcfc94b9a61b0e514f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.3.0_eaec8cf376ade15f0a28a4736e02ce9745275e56/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/no.nordicsemi.android.support.v18/scanner/0.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="564665effcb7a36a56bf71ddf048c350d4dee4ea">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/no.nordicsemi.android.support.v18-scanner-0.1.1_62fda8814ab838c36fa372e881bc2fef29a05c5a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.3.0_1ef623f337a3dc754be0c71668a9ad381eff1591/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a540db2027f39d6ab0489b43c38964f62e6bfa89">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_163995fe4d90959458e501fa7025723c37ce8de9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\Ian C\Documents\GitHub\ScribaNotesApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_682110eb5cab13a7def08d118dac037670da151b\classes.dex" />
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_f7cae452996b2b437ced8deee0aa6b1499e81b2b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bcd81b07caa7ceba8feb7f9f1511f0ec88a92bfe">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_93daad9aa8ea58f9bb012c3f4e3de717a687bf6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_49c43ae1ec23aecb7c8164e4ad6128206861da8f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/no.nordicsemi.android/log/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09fe5b28a21fba9348128dfd390d9c6cf7a4fcbd">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/no.nordicsemi.android-log-2.0.0_0133f7a0e7dd35c0d163086e5cf5fa7f41ae0d7d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_5ab8c1100ef49a2ee975fd07b1874129e07ab215/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Elibo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Elibo/Desktop/AppScribaNotes/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_8606733a1108bfb4362e784c96c75a0f22dcd774/classes.dex" />
     </item>
 
 </items>

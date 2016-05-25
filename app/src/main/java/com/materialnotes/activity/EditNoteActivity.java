@@ -321,7 +321,7 @@ public class EditNoteActivity extends RoboActionBarActivity {
         finish();
     }
 
-    public void boldcontent(){
+   /* public void boldcontent(){
         ssbcontent=(SpannableStringBuilder)noteContentText.getText();
         ssbcontent.setSpan(new StyleSpan(Typeface.BOLD),noteContentText.getSelectionStart(),noteContentText.getSelectionEnd(),0);
 
@@ -341,7 +341,7 @@ public class EditNoteActivity extends RoboActionBarActivity {
     public void italiccontent(){
         ssbcontent=(SpannableStringBuilder)noteContentText.getText();
         ssbcontent.setSpan(new StyleSpan(Typeface.ITALIC),noteContentText.getSelectionStart(),noteContentText.getSelectionEnd(),0);
-    }
+    }*/
 
     public void underlinecontent(){
         ssbcontent=(SpannableStringBuilder)noteContentText.getText();
@@ -909,17 +909,23 @@ public class EditNoteActivity extends RoboActionBarActivity {
     public void formattingText(){
         if (noteTitleText.hasSelection() && valTv.getText().equals("Mode: Delete")) {
             //boldtitle();
+            tags(false);
             deleteText();
         } else if (noteContentText.hasSelection() && valTv.getText().equals("Mode: Delete")) {
             //boldcontent();
+            tags(false);
             deleteText();
         } else if (noteTitleText.hasSelection() && valTv.getText().equals("Mode: Underline")) {
+            tags(false);
             underlinetitle();
         } else if (noteContentText.hasSelection() && valTv.getText().equals("Mode: Underline")) {
+            tags(false);
             underlinecontent();
         } else if (noteTitleText.hasSelection() && valTv.getText().equals("Mode: Highlight")) {
+            tags(false);
             highlightTitle();
         } else if (noteContentText.hasSelection() && valTv.getText().equals("Mode: Highlight")) {
+            tags(false);
             if (count == 0) {
                 showPopup(popupButton);
             }
@@ -946,7 +952,7 @@ public class EditNoteActivity extends RoboActionBarActivity {
      * copy/paste functions to work even if they don't show. If it's true then the app won't be able to copy/paste and you'll
      * have to implement it manually to the app yourself.
      **/
-    /*public void tags(final boolean tag) {
+    public void tags(final boolean tag) {
 
         noteTitleText.setCustomSelectionActionModeCallback(new ActionMode.Callback() {
             public boolean onPrepareActionMode(ActionMode mode, Menu menu) {
@@ -976,7 +982,7 @@ public class EditNoteActivity extends RoboActionBarActivity {
 
         noteContentText.setLongClickable(tag);
         noteTitleText.setLongClickable(tag);
-    }*/
+    }
 
 
 }
